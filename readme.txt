@@ -6,7 +6,7 @@ Donate link: http://www.sendpress.com/donate/
 Tags: SendPress, sp, beta, beta tester
 Requires at least: 3.2
 Tested up to: 3.5
-Stable Tag: 1.0
+Stable Tag: 1.0.1
 
 Easily run the bleeding edge version of SendPress right from GitHub.
 
@@ -26,6 +26,10 @@ Just like with any plugin, this will not check for updates on every admin page l
 
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Test deploy from github
 
 = 1.0 =
 

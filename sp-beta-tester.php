@@ -4,7 +4,7 @@
 Plugin Name: SendPress Beta Tester
 Plugin URI: http://www.sendpress.com/
 Description: Update your SendPress plugin straight from the GitHub repository and run the bleeding edge version. ** This is not recommended for production sites.
-Version: 1.0.0
+Version: 1.0.1
 Author: Josh Lyford
 Author URI: http://www.joshlyford.com/
 License: GPLv2
