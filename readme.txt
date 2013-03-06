@@ -6,7 +6,7 @@ Donate link: http://www.sendpress.com/donate/
 Tags: SendPress, sp, beta, beta tester
 Requires at least: 3.2
 Tested up to: 3.5
-Stable Tag: 1.0.2
+Stable tag: 1.0.3
 
 Easily run the bleeding edge version of SendPress right from GitHub.
 
